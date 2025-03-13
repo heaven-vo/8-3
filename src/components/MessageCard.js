@@ -181,9 +181,9 @@ const CustomHeart = ({ color }) => (
 );
 
 const messages = [
-    "Gửi đến cô gái tuyệt vời nhất trên thế giới này.",
+    "Gửi đến người con gái anh thương nhất trên thế giới này.",
     "Mong rằng mỗi này trôi qua, Em không chỉ nhận được sự quan tâm, trân trọng mà còn luôn tỏa sáng theo cách riêng của mình.",
-    "Trước khi biết em, tất cả những ngày lễ với Anh đều là vô nghĩa. Điều này thay đổi từ khi Em xuất hiện, tất cả đều đặt biệt, hôm nay cũng là một ngày đặc biệt.",
+    "Trước khi gặp em, tất cả những ngày lễ với Anh đều là vô nghĩa. Điều này thay đổi từ khi Em xuất hiện, tất cả đều đặt biệt, hôm nay cũng là một ngày đặc biệt.",
     "Chúc Em ngày càng xinh đẹp, giỏi giang, gặp nhiều may mắn, mỗi ngày đều cười tươi và cuộc sống luôn nhẹ nhàng như ý.",
     "Happy White Valentine!",
     "Mong rằng một ngày nào đó, Anh không chỉ chúc Em trên tin nhắn, mà có thể nói trực tiếp khi có cơ hội được bên cạnh Em! ",

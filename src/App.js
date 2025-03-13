@@ -17,6 +17,7 @@ const AppContainer = styled.div`
   position: relative;
 `;
 
+
 // Adding decorative elements
 const DecorationCircle = styled(motion.div)`
   position: absolute;
@@ -83,7 +84,7 @@ const Title = styled(motion.h1)`
   transition={{ duration: 1 }}
   className="responsive-title"
 >
- Chúc mừng ngày 8/3! Po
+ Happy White Valentine!
 </Title>
 
 const PuppyContainer = styled(motion.div)`
@@ -200,12 +201,13 @@ function App() {
       
       <FloatingHearts count={20} />
       
+
       <Title
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        Chúc mừng ngày 8/3! Po
+        Happy White Valentine!
       </Title>
       
       <PuppyContainer
